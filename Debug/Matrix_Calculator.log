@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Huzefa Pc\OneDrive - SSUET\Desktop\1st semester\programming fundamental LAB\project\New folder\Matrix_Calculator\Source.cpp(797,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Huzefa Pc\OneDrive - SSUET\Desktop\1st semester\programming fundamental LAB\project\New folder\Matrix_Calculator\Source.cpp(820,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Matrix_Calculator.vcxproj -> C:\Users\Huzefa Pc\OneDrive - SSUET\Desktop\1st semester\programming fundamental LAB\project\New folder\Matrix_Calculator\Debug\Matrix_Calculator.exe
